@@ -40,7 +40,7 @@
 
 2. remote 추가
     git remote add 리모트 이름 github 레퍼지토리 주소
-    git remote add origin https://github.com/whdmsco010/project5_work1.github
+    git remote add origin https://github.com/puppyzzoa/project5_work1.git
 
 3. remote 삭제
     git remote rm 리모트 이름
@@ -49,3 +49,16 @@
 4. github 데이터 넣기
     git push -u origin main 이거 한 번 했으면
     그 후엔 git push만 해도 됨
+
+---------------------------------------------
+clone 하기
+- 코드가ㅏ 없는 상태에서 전체 코드를 다운로드 받을 경우
+
+
+
+
+
+
+----------------------------------
+pull 
+- 코드가 있는 상태에서 변경된 부분만 받을 경우
