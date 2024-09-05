@@ -15,4 +15,10 @@ def subtract_numbers(a, b):
 result = subtract_numbers(10, 4)
 print(f"두 숫자의 차: {result}")
 
-# end
+# 두 숫자를 곱하는 함수
+def multiply_numbers(a, b):
+    return a * b
+
+# 예시 실행
+result = multiply_numbers(6, 7)
+print(f"두 숫자의 곱: {result}")
